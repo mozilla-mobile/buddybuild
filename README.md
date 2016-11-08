@@ -20,27 +20,27 @@ Hit Register your device, and you should see a screen that asks you if you want 
 
 Hit install in the top right. You have to confirm by entering your passcode. At the end of this process you should be back in Safari and redirected to the app install page. If not, open the link in the email again.
 
-## Step 5 - Download and Install the App
+## Step 3 - Download and Install the App
 
-Hit *Download and Install* and you should be going through a bunch of screens. 
+Hit *Download and Install* and you should be going through a bunch of screens where the last one tells you that you can now find the app on your home screen.
 
 <img src="IMG_0007.PNG" width="320">
 <img src="IMG_0009.PNG" width="320">
 <img src="IMG_0010.PNG" width="320">
 
-## Step 6 - Start the Application
+## Step 4 - Start the Application
 
-Exit Safari and find the newly installed app on your Home Screen.
+Exit Safari and find the newly installed app on your home screen.
 
 <img src="IMG_0011.PNG" width="320">
 
-If you get a warning about an *Untrusted Enterprise Developer*, like below, you first need to go to your settings and trust *Mozilla Corporation*.
+If you get a warning about an *Untrusted Enterprise Developer*, like below, you first need to go to your settings and trust *Mozilla Corporation* as explained in the next section.
 
 <img src="IMG_0012.PNG" width="320">
 
-## Step 7 - Approve Mozilla Signed Applications
+## Step 5 - Approve Mozilla Signed Applications
 
-Open settings, go to *General*, then *Profiles & Device Management* and locate the *Mozilla Corporation* profile. Open it and approve it. After this you can start the installed application.
+Open settings, go to *General*, then *Profiles & Device Management* and locate the *Mozilla Corporation* profile. Open it and approve it. After this you can start the installed application from your home screen.
 
 <img src="IMG_0013.PNG" width="320">
 <img src="IMG_0014.PNG" width="320">
